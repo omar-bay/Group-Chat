@@ -1,0 +1,28 @@
+.App {
+    text-align: center;
+}
+
+.sad_name {
+    position: relative;
+    text-align: right;
+    margin-right: 5%;
+    margin-top: -1%;
+}
+
+.Input__wider {
+    width: 30%;
+}
+
+.formc__flexit {
+    flex: 1;
+}
+
+.Input__flexit {
+    flex: 1;
+}
+
+.form__flexit {
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+}
